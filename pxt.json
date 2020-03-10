@@ -1,7 +1,7 @@
 {
-    "name": "gatorUV",
+    "name": "Qwiic UV",
     "version": "0.1.2",
-    "description": "SparkFun gator:UV UVA Sensor",
+    "description": "makecode package for the SparkFun Qwiic UV UVA Sensor",
     "license": "MIT",
     "dependencies": {
         "core": "*"
