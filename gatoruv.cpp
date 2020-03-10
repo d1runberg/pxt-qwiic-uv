@@ -20,7 +20,7 @@
 
 using namespace pxt;
 
-namespace gatorUV {
+namespace qwiicUV {
 
 
 }
