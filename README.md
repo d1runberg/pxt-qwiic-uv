@@ -1,4 +1,4 @@
-# gator:light Light Sensor
+SparkFun Qwiic UV Sensor
 
 [![Community Discord](https://img.shields.io/discord/448979533891371018.svg)](https://aka.ms/makecodecommunity)
 
