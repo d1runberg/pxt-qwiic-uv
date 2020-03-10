@@ -1,5 +1,5 @@
 // Auto-generated. Do not edit.
-declare namespace gatorUV {
+declare namespace qwiicUV {
 }
 
 // Auto-generated. Do not edit. Really.
