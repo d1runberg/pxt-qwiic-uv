@@ -1,5 +1,5 @@
 {
-    "name": "Qwiic UV",
+    "name": "QwiicUV",
     "version": "0.1.2",
     "description": "makecode package for the SparkFun Qwiic UV UVA Sensor",
     "license": "MIT",
