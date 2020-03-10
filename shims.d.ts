@@ -16,7 +16,7 @@
      * Distributed as-is; no warranty is given.
      */
 
-declare namespace gatorUV {
+declare namespace qwiicUV {
 }
 
 // Auto-generated. Do not edit. Really.
