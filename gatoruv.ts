@@ -37,7 +37,7 @@ namespace QwiicUV {
 		pins.i2cWriteNumber(lowAddress, commandRegister, NumberFormat.UInt8LE)
 	}
 	
-    //% weight=31 blockId="gatorUV_begin" block="initialize Qwiic UV sensor"
+    //% weight=31 blockId="gatorUV_begin" block="initialize qwiic UV sensor"
 	export function begin() 
 	{
 		pins.i2cWriteNumber(lowAddress, commandRegister, NumberFormat.UInt8LE)
