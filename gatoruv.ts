@@ -25,7 +25,7 @@
  }
 
 //% color=#f44242 icon="\uf185"
-namespace gatorUV {
+namespace QwiicUV {
 	let highAddress = 0x39
     let lowAddress = 0x38
     let araAddress = 0x0C
@@ -37,7 +37,7 @@ namespace gatorUV {
 		pins.i2cWriteNumber(lowAddress, commandRegister, NumberFormat.UInt8LE)
 	}
 	
-    //% weight=31 blockId="gatorUV_begin" block="initialize gator:UV sensor"
+    //% weight=31 blockId="gatorUV_begin" block="initialize Qwiic UV sensor"
 	export function begin() 
 	{
 		pins.i2cWriteNumber(lowAddress, commandRegister, NumberFormat.UInt8LE)
